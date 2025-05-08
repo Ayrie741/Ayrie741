@@ -31,7 +31,7 @@
 - Deploying as a Jupyter Notebook Demo
 
 ### Bank Card Fraud Detection Analysis  
-🐍 Python · XGBoost · Power BI  
+🐍 Python · pandas · NumPy · Power BI  
 - Pre-processing of high-powered credit card transaction data  
 - Anomaly Detection Model Training and Evaluation  
 - Visual dashboards to show anomaly trends
@@ -40,8 +40,10 @@
 
 ## 📫 联系方式
 
-[<img src="https://img.shields.io/badge/Email-zm.xie27%40gmail.com-blue?logo=gmail" />](mailto:zm.xie27@gmail.com)  
-[<img src="https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin" />](www.linkedin.com/in/zhemin-xie-562576188)  
+[![](https://img.shields.io/badge/Email-zm.xie27%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:zm.xie27@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-Zhemin%20Xie-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhemin-xie-562576188/)
+
+
 
 
 ---
