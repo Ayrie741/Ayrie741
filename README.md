@@ -38,14 +38,10 @@
 
 ---
 
-## 📫 联系方式
+## 📫 Contacts
 
 [![](https://img.shields.io/badge/Email-zm.xie27%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:zm.xie27@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-Zhemin%20Xie-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhemin-xie-562576188/)
-
-
-
-
 ---
 
 *Thanks for visiting! 🚀*  
