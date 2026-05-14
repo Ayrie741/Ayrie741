@@ -6,8 +6,8 @@
 
 ## 📝 About me
 
-- 🛠️ **Tech stack**：Python · SQL · R · Power BI · Tableau · Excel · Git  
-- 📊 **Direction**：Data Cleaning & Visualization, Machine Learning Modeling, Business Analytics
+- 🛠️ **Tech stack**: Python · SQL · R · scikit-learn · pandas · NumPy · statsmodels · Power BI · Tableau · Excel · Git  
+- 📊 **Direction**: Data Cleaning & Visualization, Machine Learning Modeling, Credit Risk Analytics, Business Analytics
 
 ---
 
@@ -35,6 +35,14 @@
 - Pre-processing of high-powered credit card transaction data  
 - Anomaly Detection Model Training and Evaluation  
 - Visual dashboards to show anomaly trends
+
+### Credit Risk Scorecard for Loan Default Risk
+🔄 Python · pandas · NumPy · scikit-learn · statsmodels · matplotlib · seaborn  
+- Built an interpretable credit risk scorecard using LendingClub loan data with manually implemented WOE, IV, PSI, and score scaling  
+- Designed a leakage-aware modeling pipeline by removing post-origination variables and using time-based train / validation / test splitting  
+- Trained a logistic regression scorecard with 0.663 test ROC-AUC, 0.412 PR-AUC, and 0.234 KS on out-of-time test data  
+- Converted predicted default probabilities into credit scores and risk bands, showing around 5x bad-rate difference between highest-risk and lowest-risk bands  
+
 
 ---
 
