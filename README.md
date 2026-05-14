@@ -29,6 +29,13 @@
 - Exploratory analysis and visualization of datasets    
 - RFM Feature Engineering + Full Process scikit-learn Pipeline（StandardScaler → OneHotEncoder → LogisticRegression）  
 - Deploying as a Jupyter Notebook Demo
+- 
+### Bank Customer Churn Prediction  
+🐍 Python · pandas · scikit-learn · SHAP · Matplotlib · Seaborn  
+- Built a leakage-aware customer churn prediction pipeline for bank customer retention analysis  
+- Diagnosed unrealistic near-perfect model performance caused by a complaint-related feature and rebuilt the model under a more realistic setting  
+- Compared Logistic Regression, Random Forest, and Gradient Boosting models using precision, recall, F1, ROC-AUC, and PR-AUC  
+- Applied threshold tuning, cost-sensitive analysis, and customer segmentation to translate model outputs into retention strategy insights  
 
 ### Bank Card Fraud Detection Analysis  
 🐍 Python · pandas · NumPy · Power BI  
@@ -37,7 +44,7 @@
 - Visual dashboards to show anomaly trends
 
 ### Credit Risk Scorecard for Loan Default Risk
-🔄 Python · pandas · NumPy · scikit-learn · statsmodels · matplotlib · seaborn  
+🐍 Python · pandas · NumPy · scikit-learn · statsmodels · matplotlib · seaborn  
 - Built an interpretable credit risk scorecard using LendingClub loan data with manually implemented WOE, IV, PSI, and score scaling  
 - Designed a leakage-aware modeling pipeline by removing post-origination variables and using time-based train / validation / test splitting  
 - Trained a logistic regression scorecard with 0.663 test ROC-AUC, 0.412 PR-AUC, and 0.234 KS on out-of-time test data  
