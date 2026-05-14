@@ -7,7 +7,7 @@
 ## 📝 About me
 
 - 🛠️ **Tech stack**: Python · SQL · R · scikit-learn · pandas · NumPy · statsmodels · Power BI · Tableau · Excel · Git  
-- 📊 **Direction**: Data Cleaning & Visualization, Machine Learning Modeling, Credit Risk Analytics, Business Analytics
+- 📊 **Direction**: Data Cleaning & Visualization, Machine Learning Modeling, Risk Analytics, Business Analytics，Data Angineering
 
 ---
 
