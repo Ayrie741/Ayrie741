@@ -29,7 +29,7 @@
 - Exploratory analysis and visualization of datasets    
 - RFM Feature Engineering + Full Process scikit-learn Pipeline（StandardScaler → OneHotEncoder → LogisticRegression）  
 - Deploying as a Jupyter Notebook Demo
-- 
+
 ### Bank Customer Churn Prediction  
 🐍 Python · pandas · scikit-learn · SHAP · Matplotlib · Seaborn  
 - Built a leakage-aware customer churn prediction pipeline for bank customer retention analysis  
@@ -48,8 +48,14 @@
 - Built an interpretable credit risk scorecard using LendingClub loan data with manually implemented WOE, IV, PSI, and score scaling  
 - Designed a leakage-aware modeling pipeline by removing post-origination variables and using time-based train / validation / test splitting  
 - Trained a logistic regression scorecard with 0.663 test ROC-AUC, 0.412 PR-AUC, and 0.234 KS on out-of-time test data  
-- Converted predicted default probabilities into credit scores and risk bands, showing around 5x bad-rate difference between highest-risk and lowest-risk bands  
-
+- Converted predicted default probabilities into credit scores and risk bands, showing around 5x bad-rate difference between highest-risk and lowest-risk bands
+- 
+### Retail Demand Forecasting with Hierarchical Time Series
+🐍 Python · pandas · NumPy · Darts · scikit-learn · Matplotlib
+- Built a 561-component hierarchical retail forecasting pipeline across total, store, item, and store-item sales levels
+- Compared Seasonal Naive and Linear Regression models, reducing Total MAPE from 34.98% to 6.80%
+- Applied forecast reconciliation, with Top-Down improving Store-item MAPE from 20.05% to 15.50%
+- Identified high-risk store-item demand segments to support inventory replenishment analysis
 
 ---
 
