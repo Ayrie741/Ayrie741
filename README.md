@@ -57,6 +57,15 @@
 - Applied forecast reconciliation, with Top-Down improving Store-item MAPE from 20.05% to 15.50%
 - Identified high-risk store-item demand segments to support inventory replenishment analysis
 
+## Profit-Aware Price Optimization with Demand Modeling
+🐍 Python · pandas · NumPy · scikit-learn · Matplotlib · Jupyter
+* Built a profit-aware pricing optimization workflow using 2,800 historical sales records
+* Compared Ridge, Random Forest, and Gradient Boosting demand models, selecting Random Forest with around 25.60% SMAPE
+* Recommended product-level prices under observed price ranges and a ±15% price-change guardrail
+* Identified major pricing opportunities for Carretera, Paseo, and Velo based on predicted profit uplift
+* Added segment-level pricing, discount simulation, robust optimization, and A/B test rollout planning
+
+
 ---
 
 ## 📫 Contacts
